@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "totural_2_5", "totural_2_5.csproj", "{772CBB51-AFF7-4160-8AD9-BCD993546AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{772CBB51-AFF7-4160-8AD9-BCD993546AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772CBB51-AFF7-4160-8AD9-BCD993546AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772CBB51-AFF7-4160-8AD9-BCD993546AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772CBB51-AFF7-4160-8AD9-BCD993546AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5959EAFF-9EAF-4DEF-A68D-BEF4995BA621}
+	EndGlobalSection
+EndGlobal
