@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{772CBB51-AFF7-4160-8AD9-BCD993546AEC}|totural_2_5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{772CBB51-AFF7-4160-8AD9-BCD993546AEC}|totural_2_5.csproj|c:\\users\\m303\\desktop\\114_1_c_sharp\\114_09_24\\totural_2_5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{772CBB51-AFF7-4160-8AD9-BCD993546AEC}|totural_2_5.csproj|C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_09_24\\totural_2_5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{772CBB51-AFF7-4160-8AD9-BCD993546AEC}|totural_2_5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,11 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
