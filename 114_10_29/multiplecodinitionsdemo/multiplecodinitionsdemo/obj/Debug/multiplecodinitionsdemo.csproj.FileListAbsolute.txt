@@ -1,0 +1,11 @@
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\multiplecodinitionsdemo\multiplecodinitionsdemo\obj\Debug\multiplecodinitionsdemo.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\multiplecodinitionsdemo\multiplecodinitionsdemo\obj\Debug\multiplecodinitionsdemo.Form1.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\multiplecodinitionsdemo\multiplecodinitionsdemo\obj\Debug\multiplecodinitionsdemo.Properties.Resources.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\multiplecodinitionsdemo\multiplecodinitionsdemo\obj\Debug\multiplecodinitionsdemo.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\multiplecodinitionsdemo\multiplecodinitionsdemo\obj\Debug\multiplecodinitionsdemo.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\multiplecodinitionsdemo\multiplecodinitionsdemo\bin\Debug\multiplecodinitionsdemo.exe.config
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\multiplecodinitionsdemo\multiplecodinitionsdemo\bin\Debug\multiplecodinitionsdemo.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\multiplecodinitionsdemo\multiplecodinitionsdemo\bin\Debug\multiplecodinitionsdemo.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\multiplecodinitionsdemo\multiplecodinitionsdemo\obj\Debug\multiplecodinitionsdemo.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\multiplecodinitionsdemo\multiplecodinitionsdemo\obj\Debug\multiplecodinitionsdemo.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\multiplecodinitionsdemo\multiplecodinitionsdemo\obj\Debug\multiplecodinitionsdemo.exe.config
