@@ -1,0 +1,9 @@
+C:\Users\m303\Desktop\114_1_C_Sharp\114上程設期末考試\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\m303\Desktop\114_1_C_Sharp\114上程設期末考試\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\114上程設期末考試\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\114上程設期末考試\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114上程設期末考試\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114上程設期末考試\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114上程設期末考試\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114上程設期末考試\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\114上程設期末考試\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb

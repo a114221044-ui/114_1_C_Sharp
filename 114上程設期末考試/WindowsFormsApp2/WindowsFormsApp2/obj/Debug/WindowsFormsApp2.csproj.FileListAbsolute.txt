@@ -1,0 +1,5 @@
+C:\Users\m303\Desktop\114_1_C_Sharp\114上程設期末考試\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114上程設期末考試\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114上程設期末考試\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114上程設期末考試\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114上程設期末考試\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
